@@ -14,6 +14,6 @@ The CRFC membership may decide to implement longer service position terms at a f
 3. Chairperson, Marketing and Outreach Working Group: [Florian Sorg](https://www.linkedin.com/in/florian-sorg/)
     * Co-Founder & Co-CEO [NEWM](https://newm.io)
 5. Chairperson, CRFC Fiat Conversion Working Group: [Darius Golkar](https://www.linkedin.com/in/dgolkar/)
-    * CEO & Founder, [Commondlands](https://www.commonlands.org/)
+    * CEO & Founder, [Commonlands](https://www.commonlands.org/)
 6. Chairperson, CRFC Identity and Trust Working Group: [Jack Krosinski](https://www.linkedin.com/in/jack-krosinski/)
     * Founder, [Smartcentral.io](https://smartcentral.io/)
