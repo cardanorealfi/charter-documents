@@ -1,2 +1,2 @@
 # charter-documents
-documents and information about how the CRCF is governed and organized
+documents and information about how the CRFC is governed and organized
