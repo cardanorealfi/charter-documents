@@ -1,7 +1,7 @@
 # Rules and regulations
 
 ## 1. Membership
-The Cardano RealFi Consortium (CRFC) would like to have a low barrier of entry to join the collective but still maintain some membership criteria to ensure that participation is driven by good-faith, active participants. We are working on a two-tier membership structure based on in-kind contributions to CRFC activities. 
+The Cardano RealFi Consortium (CRFC) would like to have a low barrier of entry to join the collective but still maintain some membership criteria to ensure that participation is driven by good-faith, active participants. Our current membership criteria is completion of a project introduction questionaire and a minimum of 1 hour participation in some CRFC activity by a representative of your company or project. 
 
 ## 2. Governance
 The following personnel have been appointed to CRFC leadership positions. 
